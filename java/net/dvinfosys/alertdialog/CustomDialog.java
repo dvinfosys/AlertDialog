@@ -9,9 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Toast;
 
-/**
- * Created by vaksys-49 on 10/6/17.
- */
+
 
 public class CustomDialog extends DialogFragment {
     @Override
