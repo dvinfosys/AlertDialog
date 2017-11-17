@@ -7,9 +7,7 @@ import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.widget.Toast;
 
-/**
- * Created by vaksys-49 on 10/6/17.
- */
+
 
 public class Days extends DialogFragment {
 
